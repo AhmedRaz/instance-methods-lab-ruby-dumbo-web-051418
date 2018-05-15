@@ -1,4 +1,4 @@
-# Define Doc class
+# Define Dog class
 class Dog 
   #  Add an instance method 'bark' to Dog class
   def bark
